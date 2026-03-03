@@ -1,0 +1,26 @@
+[
+    {
+        "title": "wake up early",
+        "done": true
+    },
+    {
+        "title": "read a portion of the quran",
+        "done": true
+    },
+    {
+        "title": "have a breakfast",
+        "done": true
+    },
+    {
+        "title": "check emails",
+        "done": true
+    },
+    {
+        "title": "prepare for work",
+        "done": true
+    },
+    {
+        "title": "pray",
+        "done": false
+    }
+]
