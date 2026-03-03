@@ -11,7 +11,7 @@ A simple Python program to manage tasks:
 ## Usage
 `python tasks.py` and follow the menu options.
 
-## Screensho
+## Screenshots
 ![Screenshot 1](1.PNG)
 ![Screenshot 2](2.PNG)
 ![Screenshot 3](3.PNG)
