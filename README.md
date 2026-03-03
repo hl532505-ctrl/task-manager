@@ -9,7 +9,7 @@ A simple Python program to manage tasks:
 - Save tasks in a JSON file
 
 ## Usage
-Run `python tasks.py` and follow the menu options.
+`python tasks.py` and follow the menu options.
 
 ## Screenshots
 ![Screenshot 1](1.png)
